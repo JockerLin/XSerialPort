@@ -1,0 +1,16 @@
+*.user
+.vs
+x64
+GeneratedFiles
+packages
+/ElectroVision/DawnCache
+/ElectroVision/GPUCache
+/WinFormWeb/obj
+/XLYProductClass/release    
+/XLYVisionCore/release
+/*/release
+/*/debug  
+/*/Makefile
+/*/Makefile.Debug
+/*/Makefile.Release
+/BaseTool/*.pdb

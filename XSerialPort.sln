@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XSerialPort", "XSerialPort\XSerialPort.vcxproj", "{AE174172-C649-436B-95C0-FD20C4DCAB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE174172-C649-436B-95C0-FD20C4DCAB7E}.Debug|x64.ActiveCfg = Debug|x64
+		{AE174172-C649-436B-95C0-FD20C4DCAB7E}.Debug|x64.Build.0 = Debug|x64
+		{AE174172-C649-436B-95C0-FD20C4DCAB7E}.Release|x64.ActiveCfg = Release|x64
+		{AE174172-C649-436B-95C0-FD20C4DCAB7E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65610FA5-6A90-4C66-A843-C5587E239B81}
+	EndGlobalSection
+EndGlobal
